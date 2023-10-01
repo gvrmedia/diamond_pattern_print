@@ -1,0 +1,1 @@
+# diamond_pattern_print
